@@ -6,14 +6,14 @@
 - [Introduction](#introduction)
 - [Project Overview](#project-overview)
 - [Features](#features)
-- [Installation](#installationr)
-- [Architecture Diagram](#Architecture-Diagram)
+- [Installation](#installation)
 - [Usage](#usage)
+- [Architecture Diagram](#architecture-diagram)
 - [Data Source](#data-source)
 - [Cleaning Process](#cleaning-process)
 - [Transformation Process](#transformation-process)
 - [Analysis and Insights](#analysis-and-insights)
-- [Results](#Results)
+- [Results](#results)
 
 ## Introduction
 
@@ -40,6 +40,9 @@ The project can be installed and set up following these steps:
 ```
 git clone https://github.com/your-username/advize-facebook-ad-analysis.git
 ```
+## Architecture Diagram
+
+![image](https://github.com/krishna7356/Advize-Facebook-Ad-Campaign-Analysisn-Analysis/blob/main/diagram%60.jpeg)
 
 ## Usage
 
